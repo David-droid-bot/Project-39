@@ -1,2 +1,1 @@
-# Project-39
-Using Visual Studio Code
+# C39-Debug-Part-1
